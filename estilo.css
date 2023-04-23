@@ -191,6 +191,10 @@ body
     flex-direction: row;
     margin: 15px 0;
 }
+.imgperfil img:hover 
+{
+    transform: scale(1.2);
+}
 
 /*@media (max-width: 1000px)
 {
