@@ -196,9 +196,25 @@ body
     transform: scale(1.2);
 }
 
-/*@media (max-width: 1000px)
+@media (max-width: 1000px)
 {
     .container
+    {
+        margin: 10px;
+        grid-template-columns: repeat(1,1fr);
+    }
+}
+@media (max-width: 767px) 
+{
+    .container 
+    {
+        margin: 10px;
+        grid-template-columns: repeat(1,1fr);
+    }
+}
+@media (max-width: 768px) and (max-width: 990px) 
+{
+    .container 
     {
         margin: 10px;
         grid-template-columns: repeat(1,1fr);
