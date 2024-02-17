@@ -1,4 +1,5 @@
-<b> Hola, mi nombre es Rodrigo.</b> 
+<b> Hola! soy Rodrigo.</b> 
 <p>
-A principios del año 2023 decidí comenzar a estudiar lenguajes básicos de programación, lo que despertó en mí un gran entusiasmo por seguir aprendiendo y poder colaborar en la creación de proyectos.
-Actualmente, estoy buscando oportunidades para seguir aprendiendo.
+ A principios del año 2023 comence a involucrarme en el mundo del desarrollo web por curiosidad, lo que luego desperto en mi un sueño y un deseo... seguir aprendiendo y desarrollar mi futuro como programador.
+
+ Actualmente, me encuentro enfocado en estudiar backend, mientras continúo reforzando mis conocimientos en frontend.
