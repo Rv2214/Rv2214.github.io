@@ -118,14 +118,13 @@ body
     display: inline-block;
     font-size: 16px;
 }
-.contactoinfo ul .li__contacto
+.li__contacto
 {
     display: flex;
 }
 .contactoinfo ul li .icon_contactoinfo_email
 {
     margin: 3px;
-    color: #03a9f4;
 }
 .datospersonales
 {
